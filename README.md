@@ -1,6 +1,6 @@
 - 🤗 Hi, I’m @elsasetiani
 - 🩷 I’m interested in Data Analyst
-- 📓 I’m currently learning Data Visualization and Python
+- 📓 I’m currently learning Data Visualization and MySQL
 - 👨🏻‍💻 I’m looking to collaborate on project Data Analyst
 - 💌 How to reach me https://www.linkedin.com/in/elsa-setiani-b75804336
 - 😋 Fun fact: obsessed with fictional man 😭 🩷
